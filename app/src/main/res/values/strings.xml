@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">voice_memos</string>
+    <string name="Edit">Edit</string>
+    <string name="all_recordings">All Recordings</string>
+</resources>
